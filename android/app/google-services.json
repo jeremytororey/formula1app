@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569315855694",
+    "project_id": "formula1jkt",
+    "storage_bucket": "formula1jkt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569315855694:android:975540d8def07cedd2221f",
+        "android_client_info": {
+          "package_name": "com.example.formula1app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjKIzFHzUCUaukN6gmVH3GV9GVLVS6hYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
